@@ -1,0 +1,18 @@
+{
+  "name": "quadb_tech_assignment",
+  "version": "1.0.0",
+  "description": "this is an assignment for the internship test at quadB tech as an node js intern",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zishan ali",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.3.4",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3",
+    "nodemon": "^2.0.22"
+  }
+}
